@@ -25,3 +25,6 @@ To improve the models I have manually forced the model to split according to Gin
 3.3.	C5.0 algorithm decision tree model	<br/>
 3.4.	Decision tree model based on CART <br/>
 3.5.	Improvement of current models
+
+### Example of some rendered visualizations
+![data plot](https://github.com/gretaivan/bi-decision-support-with-data-warehouse/blob/main/newplot%20(1).png)
